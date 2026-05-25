@@ -1,0 +1,11 @@
+name: EZAntiCheat
+version: 1.0
+main: me.ezanticheat.EZAntiCheat
+api-version: 1.20
+commands:
+  ezanticheat:
+    description: Control the EZAntiCheat plugin
+    usage: /ezanticheat <creative|survival|enable|disable>
+    permission: ezanticheat.use
+    permission-message: You do not have permission to use this command.
+    
